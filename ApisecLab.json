@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:5000"
+      "url": "http://10.0.2.15:5000"
     }
   ],
   "components": {
@@ -1014,4 +1014,5 @@
       }
     }
   }
+
 }
